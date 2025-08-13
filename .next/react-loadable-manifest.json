@@ -1,11 +1,4 @@
 {
-  "app/page.tsx -> leaflet/dist/leaflet.css": {
-    "id": "app/page.tsx -> leaflet/dist/leaflet.css",
-    "files": [
-      "static/css/_app-pages-browser_node_modules_leaflet_dist_leaflet_css.css",
-      "static/chunks/_app-pages-browser_node_modules_leaflet_dist_leaflet_css.js"
-    ]
-  },
   "app/page.tsx -> react-leaflet": {
     "id": "app/page.tsx -> react-leaflet",
     "files": [

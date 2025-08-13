@@ -79,12 +79,7 @@ export default function Page() {
     });
   }, []);
 
-  // Load Leaflet CSS only on client side
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      import('leaflet/dist/leaflet.css');
-    }
-  }, []);
+
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-800 text-slate-100">
