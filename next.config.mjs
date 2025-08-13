@@ -1,1 +1,1 @@
-export default { reactStrictMode: true, experimental: { appDir: true } };
+export default { reactStrictMode: true };
